@@ -6,5 +6,6 @@ Portfolio Milestone Project - Applied Data Science program at Syracuse Universit
 Overview
 Student: Anthony Champion
 Program/School: Applied Data Science - Syracuse University - School of Information Studies
+
 SUID: XXXXXXXXX
 e-mail: anchampi@syr.edu
